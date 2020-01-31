@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,iBAGC,QAAS,CACT,SAAU,CACV,qBACD","file":"main.8bac3002.chunk.css","sourcesContent":["*,\n*::before,\n*::after {\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n}\n"]}
