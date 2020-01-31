@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b802b2ad1e53f28e60cba9393976273e",
+    "revision": "52a4df7e339372b1665fe4aec4c084be",
     "url": "/vista-task/index.html"
   },
   {
