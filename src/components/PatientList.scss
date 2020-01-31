@@ -1,0 +1,55 @@
+.patients-list {
+	margin: 5px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+	object-fit: cover;
+	overflow: auto;
+
+	&__nav {
+		background-color: #eee;
+		border-bottom: 1px solid #aaa;
+		position: sticky;
+		top: 0;
+	}
+
+	&__nav-link {
+		border: none;
+		background: none;
+
+		text-transform: uppercase;
+		padding: 1em;
+		cursor: pointer;
+
+		&.active {
+			border-bottom: 2px solid skyblue;
+			color: skyblue;
+		}
+	}
+
+	&__table {
+		width: 100%;
+		border-collapse: collapse;
+		padding: 0.5rem;
+
+		&-head th {
+			text-align: left;
+			font-size: 0.8rem;
+			font-weight: normal;
+			line-height: 2em;
+			color: #888;
+		}
+
+		&-row {
+			cursor: pointer;
+
+			&.selected {
+				border-left: 0.25rem solid lightskyblue;
+			}
+		}
+
+		td, th {
+			width: 33%;
+			padding: 0.5em;
+			border-bottom: 1px solid #ddd;
+		}
+	}
+}

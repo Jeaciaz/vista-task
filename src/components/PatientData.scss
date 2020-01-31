@@ -1,0 +1,42 @@
+.patient-data {
+	margin: 5px;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+	overflow: hidden;
+	border: 1px solid lightskyblue;
+	min-width: max-content;
+	transition: width 0.3s ease-in-out;
+
+	&__header {
+		display: flex;
+		padding: 0.5rem;
+		background-color: lightskyblue;
+
+		h2 {
+			font-size: 1.5rem;
+			color: white;
+			font-weight: normal;
+			margin-right: 2rem;
+		}
+	}
+
+	&__btn-collapse {
+		border: none;
+		background: none;
+		color: white;
+		margin-left: auto;
+		padding: 0 0.5rem;
+		font-size: 1.5rem;
+		cursor: pointer;
+	}
+
+	&__list {
+		width: max-content;
+		list-style: none;
+		margin: 0.5rem;
+	}
+
+	&__field {
+		text-decoration: underline;
+	}
+
+}
