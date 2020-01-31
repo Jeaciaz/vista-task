@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/vista-task/static/css/main.1dcfae4b.chunk.css",
-    "main.js": "/vista-task/static/js/main.733767c0.chunk.js",
-    "main.js.map": "/vista-task/static/js/main.733767c0.chunk.js.map",
+    "main.css": "/vista-task/static/css/main.c7adcab8.chunk.css",
+    "main.js": "/vista-task/static/js/main.1aa51bdf.chunk.js",
+    "main.js.map": "/vista-task/static/js/main.1aa51bdf.chunk.js.map",
     "runtime-main.js": "/vista-task/static/js/runtime-main.cb36da9f.js",
     "runtime-main.js.map": "/vista-task/static/js/runtime-main.cb36da9f.js.map",
     "static/js/2.67e17e3f.chunk.js": "/vista-task/static/js/2.67e17e3f.chunk.js",
     "static/js/2.67e17e3f.chunk.js.map": "/vista-task/static/js/2.67e17e3f.chunk.js.map",
     "index.html": "/vista-task/index.html",
-    "precache-manifest.5dfc3a3de9693303c9314afa96c46c3d.js": "/vista-task/precache-manifest.5dfc3a3de9693303c9314afa96c46c3d.js",
+    "precache-manifest.f519f7eefc0e7dfb62622574aa2aa162.js": "/vista-task/precache-manifest.f519f7eefc0e7dfb62622574aa2aa162.js",
     "service-worker.js": "/vista-task/service-worker.js",
-    "static/css/main.1dcfae4b.chunk.css.map": "/vista-task/static/css/main.1dcfae4b.chunk.css.map",
-    "static/js/2.67e17e3f.chunk.js.LICENSE.txt": "/vista-task/static/js/2.67e17e3f.chunk.js.LICENSE.txt"
+    "static/css/main.c7adcab8.chunk.css.map": "/vista-task/static/css/main.c7adcab8.chunk.css.map",
+    "static/js/2.67e17e3f.chunk.js.LICENSE.txt": "/vista-task/static/js/2.67e17e3f.chunk.js.LICENSE.txt",
+    "static/media/separator.svg": "/vista-task/static/media/separator.5a231add.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb36da9f.js",
     "static/js/2.67e17e3f.chunk.js",
-    "static/css/main.1dcfae4b.chunk.css",
-    "static/js/main.733767c0.chunk.js"
+    "static/css/main.c7adcab8.chunk.css",
+    "static/js/main.1aa51bdf.chunk.js"
   ]
 }
