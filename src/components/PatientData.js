@@ -22,6 +22,10 @@ export default function PatientData(props) {
 				<li>Возраст: <span className="patient-data__field">{props.patient ? getYearsPassedSinceDate(props.patient.birthDate) : '___'}</span></li>
 				<li>Диагноз: <span className="patient-data__field">{props.patient ? props.patient.diagnosis : '___'}</span></li>
 			</ul>
+			<img 
+				alt=""
+				img={require('../assets/separator.svg')}
+			/>
 		</section>
 	)
 }

@@ -28,5 +28,5 @@ export default function Separator() {
 	return <div 
 		className="separator js-separator" 
 		onMouseDown={startMovement}
-	></div>
+	>⋮</div>
 }
